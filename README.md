@@ -1,5 +1,5 @@
 # Sorting Algorithm Visualizer
-https://visual-sorter-algorithms.netlify.app/
+[Sorting Algorithm Visualizer DEMO](https://visual-sorter-algorithms.netlify.app/)
 
 
 

@@ -25,6 +25,8 @@ The Sorting Algorithm Visualizer is an interactive web application built using R
 5.Click "Start Sorting" to visualize the sorting algorithm in action.
 
 # Technologies Used:
+Node.js
+
 React.js
 
 JavaScript
